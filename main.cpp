@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <iostream>
+#include <login.h>
 
 void main()
 {
